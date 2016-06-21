@@ -4,6 +4,9 @@
 //
 // by Giovanni Dicanio <giovanni DOT dicanio@gmail.com>
 //
+// Code associated to the blog post:
+// http://blogs.msmvps.com/gdicanio/2016/06/13/mixing-traits-classes-range-for-iteration-and-decltype-a-subtle-bug/
+//
 ///////////////////////////////////////////////////////////////////////////////
 
 
